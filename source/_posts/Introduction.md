@@ -6,8 +6,6 @@ tags:
 date: 2017-04-02 11:49:13
 ---
 
-# Who am I
-
 Hi, I'm Neil. I work at [Vistaprint](http://www.vistaprint.com/). I spend most of my time writing software or tools to help test other software. 
 
 I'm not a great writer. I tend to have poor transitions and leave things out. I use too many big words and long sentences. I'm working on it.
