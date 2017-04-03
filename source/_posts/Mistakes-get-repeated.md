@@ -10,7 +10,7 @@ tags:
 date: 2017-04-02 12:19:33
 ---
 
-One of the strategies I find myself returning to for testing is looking at the kinds of mistakes that are made. Often a pattern can be found. Individuals tend to make the same type of mistake over and over. For groups, areas that are complex are repeatedly forgotten when the connection to the current change is not obvious. 
+One of the strategies I find myself returning to for testing is looking at the kinds of mistakes that are made. Often a pattern can be found. Individuals tend to make the same type of mistake over and over. <!-- more -->For groups, areas that are complex are repeatedly forgotten when the connection to the current change is not obvious. 
 
 There are many strategies to help counter this tendency to repeat mistakes. If the problem is common across the group a checklist can be very effective as a short term fix. If it's particular to an individual, collaborating on a strategy that works for them often is effective.
 
