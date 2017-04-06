@@ -11,10 +11,10 @@ date: 2017-04-04 07:25:20
 
 Repeatedly in my career, lack of attention to detail has lead to quality problems. As a result attention to details is one of the behaviors I pay a lot of attention to in developers.<!-- more --> 
 
-As with most things there is a spectrum, and some trade offs. One team I worked with had a wide spread of people on the spectrum of attention to detail. On one end was a developer who turned out a lots of code, with little attention to detail. This developer had a 30% re-open rate for bugs / tickets (the highest rate on the team). I was always able to find a bunch of bugs in this person's work whenever something was delivered. At the other end, their was a developer who turned out far less features, but was so careful that the re-open rate was 5%. It was always a struggle to find issues in this person's work. Their is definitely a sweet spot between the two in terms of feature delivery in a timely manner, versus sufficient quality. That sweet spot is at different places depending on the context and goals of a project.
+As with most things there is a spectrum, and some trade offs. One team I worked with had a wide spread of people on the spectrum of attention to detail. On one end was a developer who turned out lots of code, with little attention to detail. This developer had a 30% re-open rate for bugs / tickets (the highest rate on the team). I was always able to find a bunch of bugs in this person's work whenever something was delivered. At the other end, their was a developer who turned out far less features, but was so careful that the re-open rate was 5%. It was always a struggle to find issues in this person's work. Their is definitely a sweet spot between the two in terms of feature delivery in a timely manner, versus sufficient quality. That sweet spot is at different places depending on the context and goals of a project.
 
 ## Repeated themes
-A number of common themes come up with details being missing. Some of the often found repeated themes are:
+A number of common themes come up with details being missed. Some of the often found repeated themes are:
 
 * Not addressing key user interaction in specifications
 * Not getting clarification on ambiguous detail in a specification
